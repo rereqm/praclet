@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# Датасеты
+data/raw/
+data/processed/images/
+data/processed/labels/
+
+# Результаты обучения
+results/
+runs/
+
+# Веса моделей
+*.pt
+*.pth
+
+# Логи
+*.csv
+*.png
+*.jpg
+
+# Windows
+Thumbs.db
